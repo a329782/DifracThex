@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Desktop\spaceAppsChallenge\spaceApps\spaceApps\bin\Debug\spaceApps.exe.config
+C:\Users\Alejandro\Desktop\spaceAppsChallenge\spaceApps\spaceApps\bin\Debug\spaceApps.exe
+C:\Users\Alejandro\Desktop\spaceAppsChallenge\spaceApps\spaceApps\bin\Debug\spaceApps.pdb
+C:\Users\Alejandro\Desktop\spaceAppsChallenge\spaceApps\spaceApps\obj\Debug\spaceApps.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\spaceAppsChallenge\spaceApps\spaceApps\obj\Debug\spaceApps.exe
+C:\Users\Alejandro\Desktop\spaceAppsChallenge\spaceApps\spaceApps\obj\Debug\spaceApps.pdb
